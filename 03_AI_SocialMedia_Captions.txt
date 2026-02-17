@@ -1,0 +1,5 @@
+Prompt Template for ChatGPT:
+Client: I need 10 social media captions for [industry/topic]
+Task: Generate 10 short, engaging captions, include hashtags
+Style: Friendly, professional
+Output format: List

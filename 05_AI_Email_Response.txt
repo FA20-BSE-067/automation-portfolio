@@ -1,0 +1,4 @@
+Prompt Template for ChatGPT:
+Client Email: [Insert Email Text]
+Task: Draft a professional, polite, concise reply under 100 words
+Output: Reply
